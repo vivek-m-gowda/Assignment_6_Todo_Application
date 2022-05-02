@@ -138,28 +138,3 @@ body
   opacity: 1;
   pointer-events: auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-/* .todoList li
-{
-  list-style: none;
-  height: 45px;
-  line-height: 45px;
-  position: absolute;
-  background: green;
-} */ 
-
-/* .todoList li span
-{
-  position: absolute;
-  right: 0px;
-} */
